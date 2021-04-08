@@ -43,9 +43,9 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 
 ## CRM
 
-- [纷享销客](http://fxiaoke.com/) - Customer Relationship Management. 
-- [销售易](https://www.xiaoshouyi.com/) - Customer Relationship Management. 
-
+- [纷享销客](http://fxiaoke.com/) - CRM SaaS , 连接型CRM优质服务商
+- [销售易](https://www.xiaoshouyi.com/)  CRM SaaS
+ 
 
 ## HR
 
@@ -92,7 +92,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [Qing Flow](https://qingflow.com/) - 通过“无代码”技术重塑系统开发方式
 - [Huozige](https://www.grapecity.com.cn/solutions/huozige) - Low code platform.
 - [Treelab](https://www.treelab.com.cn) - Treelab 是一款新一代生产力工具能让非技术人员像Excel 一样创造不同任意业务系统
-
+- [纷享销客PaaS](https://www.fxiaoke.com/ap/plat-Paas/) - Paas平台能力支撑，轻松满足企业差异化业务定制需求
 
 
 
