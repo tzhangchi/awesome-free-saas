@@ -4,8 +4,8 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 
 ## Contents
 
-- [Information](#information)
 - [Docs](#docs)
+- [Design](#design)
 - [CRM](#CRM)
 - [HR](#HR)
 - [VideoConferencing](#VideoConferencing)
@@ -18,17 +18,12 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [AI](#ai)
 - [VR](#vr)
 - [Online Coding & Code Share](#online-coding--code-share)
-- [Design](#design)
 - [Discussion](#discussion)
 - [CMS & Website](#cms--website)
 - [Log Analysis](#log-analysis)
+- [Information](#information)
 
 
-## Information
-
-- [Meetup](https://www.meetup.com/) - Discover events for all the things you love.
-- [Owler](https://corp.owler.com/) - Hard-to-find company data, and strategic news alerts for savvy executives, marketers and sales professionals.
-- [RemoteClub](https://remoteclub.io/?ref=producthunt) - Find remote jobs for Developers, Designers, Customer Service, Management, Marketing and Sales. Work from anywhere. Hire remote workers!
 
 ## Docs
 
@@ -40,6 +35,16 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [Prezi](https://prezi.com): 画布PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
 - [一起写](https://yiqixie.com/) - 耳目一新的云端Office
+
+## Design
+- [Figma](https://www.figma.com/) - the collaborative interface design tool.
+- [蓝湖](https://lanhuapp.com/app) - 蓝湖是一款产品文档和设计图的共享平台,帮助互联网团队更好地管理文档和设计图
+- [墨刀](https://modao.cc/) - 在线协作,原型设计,协作平台
+- [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
+- [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
+- [图怪兽](https://818ps.com) - 作图神器.
+- [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
+- [proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
 
 ## CRM
 
@@ -110,15 +115,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 
 - [Codepen](https://codepen.io/) -  An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.
 
-## Design
-- [Figma](https://www.figma.com/) - the collaborative interface design tool.
-- [蓝湖](https://lanhuapp.com/app) - 蓝湖是一款产品文档和设计图的共享平台,帮助互联网团队更好地管理文档和设计图
-- [墨刀](https://modao.cc/) - 在线协作,原型设计,协作平
-- [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
-- [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
-- [图怪兽](https://818ps.com) - 作图神器.
-- [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
-- [proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
+
 
 ## Discussion
 
@@ -134,6 +131,11 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [loggly](https://www.loggly.com/) - Log analysis & monitoring in the cloud.
 - [日志易](https://www.rizhiyi.com/) - 自助在线日志分析平台
 
+## Information
+
+- [Meetup](https://www.meetup.com/) - Discover events for all the things you love.
+- [Owler](https://corp.owler.com/) - Hard-to-find company data, and strategic news alerts for savvy executives, marketers and sales professionals.
+- [RemoteClub](https://remoteclub.io/?ref=producthunt) - Find remote jobs for Developers, Designers, Customer Service, Management, Marketing and Sales. Work from anywhere. Hire remote workers!
 
 
 # License
