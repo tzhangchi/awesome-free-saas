@@ -31,6 +31,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [DrawOnPDF](https://www.goodannotations.com/tools/draw-on-pdf) - Draw on PDF documents online with the best free PDF editor.
 - [轻雀文档](http://docs.qingque.cn/) - 企业级智能在线协作文档
 - [MySlide](https://myslide.cn/) - 一个类似于SlideShare和SpeakerDeck的PPT分享网站.
+- [腾讯文档](https://docs.qq.com/) - 腾讯官方出品文档
 - [Hipa](https://hipacloud.com/) - Redefined table.
 - [Prezi](https://prezi.com): 画布PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
