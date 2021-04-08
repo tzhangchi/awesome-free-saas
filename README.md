@@ -54,8 +54,8 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
  
 
 ## HR
-- [北森云](https://www.beisen.com/) 
-- [MokaHR](http://mokahr.com/) 
+- [北森云](https://www.beisen.com/) - HR SaaS
+- [MokaHR](http://mokahr.com/) - HR SaaS
 
 
 ## VideoConferencing
