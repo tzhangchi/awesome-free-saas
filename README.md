@@ -54,8 +54,10 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
  
 
 ## HR
-
+- [北森云](https://www.beisen.com/) 
 - [MokaHR](http://mokahr.com/) 
+
+
 ## VideoConferencing
 - [腾讯会议](https://meeting.tencent.com/) -  享受灵活扩容、使用便捷的一站式云会议解决方案
 - [Zoom](zoom.us) - modern enterprise video communications
