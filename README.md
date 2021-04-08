@@ -50,7 +50,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 ## CRM
 
 - [纷享销客](http://fxiaoke.com/) - CRM SaaS , 连接型CRM优质服务商
-- [销售易](https://www.xiaoshouyi.com/)  CRM SaaS
+- [销售易](https://www.xiaoshouyi.com/) - CRM SaaS
  
 
 ## HR
