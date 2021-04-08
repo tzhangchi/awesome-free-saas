@@ -36,6 +36,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [Prezi](https://prezi.com): 画布PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
 - [一起写](https://yiqixie.com/) - 耳目一新的云端Office
+- [Confluence wiki software](https://www.atlassian.com/) - Connect people, content, and ideas all in one place so you can spend less time hunting things down, and more time making things happen.
 
 ## Design
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.
