@@ -87,6 +87,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 
 ## Marketing
 
+- [磁力引擎](https://e.kuaishou.com/) - 快手营销平台，让品牌更有吸引力
 - [微盟](http://www.weimob.com/) - 智慧商业服务商
  
 
