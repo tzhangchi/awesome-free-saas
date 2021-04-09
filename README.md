@@ -37,6 +37,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [轻雀文档](http://docs.qingque.cn/) - 企业级智能在线协作文档
 - [MySlide](https://myslide.cn/) - 一个类似于 SlideShare 和 SpeakerDeck 的 PPT 分享网站.
 - [腾讯文档](https://docs.qq.com/) - 腾讯官方出品文档
+- [石墨文档](https://shimo.im/) - 全新一代云端 Office，面向未来的办公软件
 - [Hipa](https://hipacloud.com/) - Redefined table.
 - [Prezi](https://prezi.com): 画布 PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
