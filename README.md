@@ -45,7 +45,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [一起写](https://yiqixie.com/) - 耳目一新的云端 Office
 - [Confluence wiki software](https://www.atlassian.com/) - Connect people, content, and ideas all in one place so you can spend less time hunting things down, and more time making things happen.
 - [印象笔记](https://yinxiang.com/) - 让生活更有序，让工作更高效，让协作更便捷
-
+- [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas. 
 ## Design
 
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.
