@@ -57,7 +57,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [纷享销客](http://fxiaoke.com/) - CRM SaaS , 连接型 CRM 优质服务商
 - [销售易](https://www.xiaoshouyi.com/) - CRM SaaS
 - [有谱](https://www.yopwork.com/) - 涵盖企业经营管理的各项领域，打造符合企业需求的个性化软件
-- [zoho](https://www.zoho.com/one/) - 修复知识库废弃新手引导覆盖 toolbar 的 bug
+- [zoho](https://www.zoho.com/one/) - Unique and powerful suite of software to run your entire business
 - [外勤 365](https://www.waiqin365.com/) - 提升企业线下销售效率
 - [小满](https://www.xiaoman.cn/) - 随时随地都可以让工作简单轻松 卓有成效
 - [销帮帮](https://www.xbongbong.com/) - 客户全生命周期数字化管理
