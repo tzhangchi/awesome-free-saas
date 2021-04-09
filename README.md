@@ -76,7 +76,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [快启](http://assets.ukuaiqi.com/) - 专注于小微企业的移动 CRM 和协同工具
 
 ## HR
-
+- [workday](http://workday.com/) - The finance, HR, and planning system for a changing world
 - [北森云](https://www.beisen.com/) - HR SaaS
 - [MokaHR](http://mokahr.com/) - HR SaaS
 
