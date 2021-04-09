@@ -1,6 +1,8 @@
 # Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 an awesome list of free SaaS (software as a service) for you. 一份很棒的免费 SaaS（软件即服务）清单。
+![](https://visitor-badge.glitch.me/badge?page_id=fancylife.awesome-free-saas) 
+
 
 ## Contents
 
@@ -42,7 +44,6 @@ an awesome list of free SaaS (software as a service) for you. 一份很棒的免
 - [蓝湖](https://lanhuapp.com/app) - 蓝湖是一款产品文档和设计图的共享平台,帮助互联网团队更好地管理文档和设计图
 - [墨刀](https://modao.cc/) - 在线协作,原型设计,协作平台
 - [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
-- [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
 - [图怪兽](https://818ps.com) - 作图神器.
 - [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
 - [proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
@@ -99,7 +100,9 @@ an awesome list of free SaaS (software as a service) for you. 一份很棒的免
 - [XDeveloper](https://x-developer.cn/) - 帮助企业基于研发度量构建起高效交付体系。
 - [Taskade](https://www.taskade.com/spaces/rshcAWanYLxmWNq4) - Map out your workflow, from ideas to action.
 - [PingCode](https://pingcode.com/) - 新一代研发管理平台，让研发管理自动化、数据化、智能化，帮助企业提升研发效能.
-
+- [tapd](http://tapd.cn/) - 一站式敏捷研发协作云平台
+- [ones](https://ones.ai/) - 整合敏捷开发与 DevOps 的研发管理工具
+- [tower](https://tower.im/) - 团队协作工具
 ## Marketing
 
 - [磁力引擎](https://e.kuaishou.com/) - 快手营销平台，让品牌更有吸引力
