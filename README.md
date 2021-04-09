@@ -27,6 +27,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [Log Analysis](#log-analysis)
 - [Information](#information)
 - [Draw](#Draw)
+- [Collaborative OA](#collaborative-oa)
+- [Project Management](#project-management)
+- [Developer Service](#developer-service)
 
 ## Docs
 
@@ -160,6 +163,22 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## Draw
 - [processon](https://www.processon.com/) - 免费在线作图、实时协作
+
+## Collaborative OA
+- [泛微](https://www.weaver.com.cn/) - 数字化办公
+- [万户网络](https://www.whir.net/) - 完整的中高端协同应用平台系列产品线，易用、灵活而实用，提供协同产品信息化建设长期规划解决方案
+- [今目标](http://www.jingoal.com/index.html) - 像搭积木一样创建个性化的业务流程
+- [道一云](https://www.do1.com.cn/) - 微信生态最多用户使用的云办公应用
+- [工作周报](http://www.gongzuozhoubao.com/) - 在线编写工作计划、工作总结、安排工作任务的专业云周报系统
+- [致远互联](https://www.seeyon.com/) - 是一家集产品的设计、研发、销售及服务为一体的企业，为客户提供专业的协同管理软件产品、解决方案、平台及云服务 ，是中国领先的协同管理软件提供商
+- [云通信](https://www.263.net/) - 视频会议
+- [明道](https://www.mingdao.com/) - APass平台、0代码
+- [日事清](https://www.rishiqing.com/) - 高效能团队管理
+
+## Project Management
+
+## Developer Service
+
 
 # License
 
