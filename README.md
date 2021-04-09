@@ -44,7 +44,6 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [蓝湖](https://lanhuapp.com/app) - 蓝湖是一款产品文档和设计图的共享平台,帮助互联网团队更好地管理文档和设计图
 - [墨刀](https://modao.cc/) - 在线协作,原型设计,协作平台
 - [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
-- [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
 - [图怪兽](https://818ps.com) - 作图神器.
 - [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
 - [proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
