@@ -101,6 +101,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Project & Team Management
 
 - [Notion](https://www.notion.so/product) - One tool for your whole team. Write, plan, and get organized.
+- [monday.com](https://monday.com/) - Work the way that works for you
 - [轻雀协作](https://qingque.cn/) - 服务新一代工作知识工作者，项目管理软件
 - [KissFlow](https://kissflow.com/) - Digital Workplace designed for minimal disruption of work. Built for the modern workplace.
 - [Teambition](https://www.teambition.com/) - 包括 项目空间、网盘、文档、待办、日历 等新一代工具，帮助你把想法变成现实，让创作过程充满愉悦.
