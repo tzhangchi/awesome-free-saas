@@ -86,7 +86,9 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [XDeveloper](https://x-developer.cn/) - 帮助企业基于研发度量构建起高效交付体系。
 - [Taskade](https://www.taskade.com/spaces/rshcAWanYLxmWNq4) - Map out your workflow, from ideas to action.
 - [PingCode](https://pingcode.com/) - 新一代研发管理平台，让研发管理自动化、数据化、智能化，帮助企业提升研发效能.
-
+- [tapd](http://tapd.cn/) - 一站式敏捷研发协作云平台
+- [ones](https://ones.ai/) - 整合敏捷开发与 DevOps 的研发管理工具
+- [tower](https://tower.im/) - 团队协作工具
 ## Marketing
 
 - [磁力引擎](https://e.kuaishou.com/) - 快手营销平台，让品牌更有吸引力
