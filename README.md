@@ -1,6 +1,6 @@
-# Awesome Free SaaS  [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-an awesome list of  free SaaS (software as a service) for you. 一份很棒的免费SaaS（软件即服务）清单。
+# Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+an awesome list of free SaaS (software as a service) for you. 一份很棒的免费 SaaS（软件即服务）清单。
 
 ## Contents
 
@@ -23,22 +23,21 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [Log Analysis](#log-analysis)
 - [Information](#information)
 
-
-
 ## Docs
 
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
 - [DrawOnPDF](https://www.goodannotations.com/tools/draw-on-pdf) - Draw on PDF documents online with the best free PDF editor.
 - [轻雀文档](http://docs.qingque.cn/) - 企业级智能在线协作文档
-- [MySlide](https://myslide.cn/) - 一个类似于SlideShare和SpeakerDeck的PPT分享网站.
+- [MySlide](https://myslide.cn/) - 一个类似于 SlideShare 和 SpeakerDeck 的 PPT 分享网站.
 - [腾讯文档](https://docs.qq.com/) - 腾讯官方出品文档
 - [Hipa](https://hipacloud.com/) - Redefined table.
-- [Prezi](https://prezi.com): 画布PPT.
+- [Prezi](https://prezi.com): 画布 PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
-- [一起写](https://yiqixie.com/) - 耳目一新的云端Office
+- [一起写](https://yiqixie.com/) - 耳目一新的云端 Office
 - [Confluence wiki software](https://www.atlassian.com/) - Connect people, content, and ideas all in one place so you can spend less time hunting things down, and more time making things happen.
 
 ## Design
+
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.
 - [蓝湖](https://lanhuapp.com/app) - 蓝湖是一款产品文档和设计图的共享平台,帮助互联网团队更好地管理文档和设计图
 - [墨刀](https://modao.cc/) - 在线协作,原型设计,协作平台
@@ -50,30 +49,45 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 
 ## CRM
 
-- [纷享销客](http://fxiaoke.com/) - CRM SaaS , 连接型CRM优质服务商
+- [纷享销客](http://fxiaoke.com/) - CRM SaaS , 连接型 CRM 优质服务商
 - [销售易](https://www.xiaoshouyi.com/) - CRM SaaS
- 
+- [有谱](https://www.yopwork.com/) - 涵盖企业经营管理的各项领域，打造符合企业需求的个性化软件
+- [zoho](https://www.zoho.com/one/) - 修复知识库废弃新手引导覆盖 toolbar 的 bug
+- [外勤 365](https://www.waiqin365.com/) - 提升企业线下销售效率
+- [小满](https://www.xiaoman.cn/) - 随时随地都可以让工作简单轻松 卓有成效
+- [销帮帮](https://www.xbongbong.com/) - 客户全生命周期数字化管理
+- [云客](https://www.yunkecn.com/) - 专注销售过程管理
+- [指掌天下](https://www.handday.com/open) - 连接企业内部协同和外部营销
+- [亿客 crm](http://www.yikeer.com/) - 帮助销售人员完整记录客户信息，了解客户的喜好
+- [爱客 crm](https://www.ikcrm.com/) - 解决中小企业找客难、转化低、管理混乱的问题
+- [亿达互联](http://www.yidahulian.cn/) - 专注于为金融企业、事业单位、中小企业、小微企业提供软件技术服务
+- [华邦云](http://www.winbons.com/) - 智能化销售客户管理系统
+- [普丘](http://www.puqiu.com.cn/index.html) - 帮助更多零售企业实现新零售环境下的业务增长
+- [八百客](http://www.800app.com/) - 领先专业的 SaaS 模式和企业云计算开发平台
+- [兑吧](http://www.duiba.com.cn/) - 为您建立全面、有效的用户运营体系
+- [快启](http://assets.ukuaiqi.com/) - 专注于小微企业的移动 CRM 和协同工具
 
 ## HR
+
 - [北森云](https://www.beisen.com/) - HR SaaS
 - [MokaHR](http://mokahr.com/) - HR SaaS
 
-
 ## VideoConferencing
-- [腾讯会议](https://meeting.tencent.com/) -  享受灵活扩容、使用便捷的一站式云会议解决方案
+
+- [腾讯会议](https://meeting.tencent.com/) - 享受灵活扩容、使用便捷的一站式云会议解决方案
 - [Zoom](zoom.us) - modern enterprise video communications
-- [轻雀会议](https://www.qingque.cn/meet/) -  开箱即用的云会议，致力于为新一代知识工作者提供服务，协助个人和团队提升协作效率，大幅解放生产力。
+- [轻雀会议](https://www.qingque.cn/meet/) - 开箱即用的云会议，致力于为新一代知识工作者提供服务，协助个人和团队提升协作效率，大幅解放生产力。
 
 ## Cloud Services
 
 - [ucloud](http://ucloud.cn/) - UCloud(优刻得)是中国知名的中立云计算服务商，专注于提供可靠的企业级云服务
 
 ## Data Analysis
+
 - [神策数据](https://www.sensorsdata.cn/) - 大数据分析和营销科技服务商
 - [Baremetrics](https://baremetrics.com/) - Metrics, dunning, and engagement tools for SaaS & subscription businesses.
 - [GrowingIO](https://www.growingio.com/) - 一站式数字化增长整体方案服务商。为产品、运营、市场、数据团队及管理者提供客户数据平台（CDP）、广告分析、产品分析、智能运营等产品和咨询服务。
 - [BDP](https://me.bdp.cn/home.html) - Data analysis platform.
-
 
 ## Project & Team Management
 
@@ -90,9 +104,9 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 
 - [磁力引擎](https://e.kuaishou.com/) - 快手营销平台，让品牌更有吸引力
 - [微盟](http://www.weimob.com/) - 智慧商业服务商
- 
 
 ## CostControlReimbursement
+
 - [易快报](https://www.ekuaibao.com/) - 敏捷的企业报销费控与聚合消费平台
 - [分贝通](https://www.fenbeitong.com/) - 企业支付-报销管理软件-差旅费用报销系统
 
@@ -101,11 +115,8 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [Airtable](https://airtable.com/) - Low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes.
 - [Qing Flow](https://qingflow.com/) - 通过“无代码”技术重塑系统开发方式
 - [Huozige](https://www.grapecity.com.cn/solutions/huozige) - Low code platform.
-- [Treelab](https://www.treelab.com.cn) - Treelab 是一款新一代生产力工具能让非技术人员像Excel 一样创造不同任意业务系统
-- [纷享销客PaaS](https://www.fxiaoke.com/ap/plat-Paas/) - Paas平台能力支撑，轻松满足企业差异化业务定制需求
-
-
-
+- [Treelab](https://www.treelab.com.cn) - Treelab 是一款新一代生产力工具能让非技术人员像 Excel 一样创造不同任意业务系统
+- [纷享销客 PaaS](https://www.fxiaoke.com/ap/plat-Paas/) - Paas 平台能力支撑，轻松满足企业差异化业务定制需求
 
 ## AI
 
@@ -118,9 +129,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 
 ## Online Coding & Code Share
 
-- [Codepen](https://codepen.io/) -  An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.
-
-
+- [Codepen](https://codepen.io/) - An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.
 
 ## Discussion
 
@@ -129,7 +138,7 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 ## CMS & Website
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
-                                    
+
 ## Log Analysis
 
 - [Sentry](https://sentry.io/welcome/) - Application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
@@ -141,7 +150,6 @@ an awesome list of  free SaaS (software as a service) for you. 一份很棒的�
 - [Meetup](https://www.meetup.com/) - Discover events for all the things you love.
 - [Owler](https://corp.owler.com/) - Hard-to-find company data, and strategic news alerts for savvy executives, marketers and sales professionals.
 - [RemoteClub](https://remoteclub.io/?ref=producthunt) - Find remote jobs for Developers, Designers, Customer Service, Management, Marketing and Sales. Work from anywhere. Hire remote workers!
-
 
 # License
 
