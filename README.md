@@ -29,6 +29,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Draw](#draw)
 - [OA](#oa)
 - [Developer Service](#developer-service)
+- [Form](#form)
 
 ## Docs
 
@@ -183,6 +184,15 @@ an awesome list of free SaaS (software as a service) for you.
 - [日事清](https://www.rishiqing.com/) - 高效能团队管理
 
 ## Developer Service
+
+## Form
+- [魔方网表](https://www.mf999.com/) - 魔方网表，信息管理触手可及
+- [金数据](https://jinshuju.net/) - 人人可用的数据收集与管理平台，同时也提供了企业级数据解决方案
+- [麦客](http://mikecrm.com/) - "触"所不能及（Reach Unreachable），麦客CRM是一款在线表单制作工具，同时也是强大的客户信息处理和关系管理系统
+- [问道网](https://www.askform.cn/) - AskForm人才测评云平台，提供360度测评、人才盘点、敬业度调查，满意度调查、人力资源调查，在线调查，在线问卷等功能
+- [伙伴办公](https://www.huoban.com/) - 企业微信顶级合作伙伴，企业数据和流程管理专家
+- [帮BOSS](https://www.jsform.com/) - 表单大师-简单好用的数据收集、管理和分析平台
+- [用友云表单](https://iuap.yonyoucloud.com/product/form.html) - 云表单是用友 iuap 企业互联网开放平台中的公有云服务。提供与表单相关的平台、应用、工具和服务。
 
 
 # License
