@@ -101,7 +101,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Project & Team Management
 
 - [Notion](https://www.notion.so/product) - One tool for your whole team. Write, plan, and get organized.
-- [monday.com](https://monday.com/) - Work the way that works for you
+- [monday](https://monday.com/) - Work the way that works for you
 - [轻雀协作](https://qingque.cn/) - 服务新一代工作知识工作者，项目管理软件
 - [asana](https://asana.com/) - Teams don’t lose track of work with Asana
 - [KissFlow](https://kissflow.com/) - Digital Workplace designed for minimal disruption of work. Built for the modern workplace.
