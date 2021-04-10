@@ -133,6 +133,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Huozige](https://www.grapecity.com.cn/solutions/huozige) - Low code platform.
 - [Treelab](https://www.treelab.com.cn) - Treelab 是一款新一代生产力工具能让非技术人员像 Excel 一样创造不同任意业务系统
 - [纷享销客 PaaS](https://www.fxiaoke.com/ap/plat-Paas/) - Paas 平台能力支撑，轻松满足企业差异化业务定制需求
+- [微搭](https://cloud.tencent.com/product/weda) - 腾讯云微搭低代码 WeDa, 支持快速构建包括微信小程序在内的多种应用
 
 ## AI
 
