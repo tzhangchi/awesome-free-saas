@@ -81,8 +81,9 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## HR
 - [workday](http://workday.com/) - The finance, HR, and planning system for a changing world
-- [北森云](https://www.beisen.com/) - HR SaaS
-- [MokaHR](http://mokahr.com/) - HR SaaS
+- [北森云](https://www.beisen.com/) - 一体化HR SaaS及人才管理平台
+- [MokaHR](http://mokahr.com/) - 让技术更人性化，让招聘更智能化，HR更爱用的智能化招聘管理系统
+- [薪人薪事](https://www.xinrenxinshi.com/) - 薪人薪事，让人事管理更简单
 
 ## Video Conference
 
