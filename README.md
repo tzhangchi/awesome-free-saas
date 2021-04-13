@@ -209,6 +209,11 @@ an awesome list of free SaaS (software as a service) for you.
 - [ark创新咨询](https://www.arkdesign.cn/#/) - Design for change, 专注设计驱动力,创新商业未来
 - [样本通](http://www.yangbentong.com/) - 智能样本 裂变营销 产品信息营销管理领导者
 
+## Restaurants Saas 
+- [Olo](https://www.olo.com/) - Olo is a New York City-based B2B SaaS company that develops digital ordering and delivery programs for restaurants.
+- [二维火](https://2dfire.com/) - 专注餐饮云收银系统的研发和应用,致力于帮助餐饮等行业实现互联网信息化
+- [客如云](http://www.keruyun.com/) - 本地生活服务业商家提供SaaS软硬件产品和服务
+
 # License
 
 [MIT](https://opensource.org/licenses/MIT)
