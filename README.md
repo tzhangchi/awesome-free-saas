@@ -1,10 +1,9 @@
 # Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-an awesome list of free SaaS (software as a service) for you. 
+an awesome list of free SaaS (software as a service) for you.
 一份很棒的免费 SaaS（软件即服务）清单。
 
-![](https://visitor-badge.glitch.me/badge?page_id=fancylife.awesome-free-saas) 
-
+![](https://visitor-badge.glitch.me/badge?page_id=fancylife.awesome-free-saas)
 
 ## Contents
 
@@ -31,6 +30,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Developer Service](#developer-service)
 - [Form](#form)
 - [Content & Experience](#content--experience)
+- [BI](#BI)
 
 ## Docs
 
@@ -46,7 +46,8 @@ an awesome list of free SaaS (software as a service) for you.
 - [一起写](https://yiqixie.com/) - 耳目一新的云端 Office
 - [Confluence wiki software](https://www.atlassian.com/) - Connect people, content, and ideas all in one place so you can spend less time hunting things down, and more time making things happen.
 - [印象笔记](https://yinxiang.com/) - 让生活更有序，让工作更高效，让协作更便捷
-- [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas. 
+- [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
+
 ## Design
 
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.
@@ -56,7 +57,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [图怪兽](https://818ps.com) - 作图神器.
 - [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
 - [proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
-- [CoDesign](https://codesign.qq.com/) - 腾讯CoDesign, 一站式设计协作平台
+- [CoDesign](https://codesign.qq.com/) - 腾讯 CoDesign, 一站式设计协作平台
 - [摹客](https://www.mockplus.cn/) - 全流程设计、原型设计
 
 ## CRM
@@ -80,9 +81,10 @@ an awesome list of free SaaS (software as a service) for you.
 - [快启](http://assets.ukuaiqi.com/) - 专注于小微企业的移动 CRM 和协同工具
 
 ## HR
+
 - [workday](http://workday.com/) - The finance, HR, and planning system for a changing world
-- [北森云](https://www.beisen.com/) - 一体化HR SaaS及人才管理平台
-- [MokaHR](http://mokahr.com/) - 让技术更人性化，让招聘更智能化，HR更爱用的智能化招聘管理系统
+- [北森云](https://www.beisen.com/) - 一体化 HR SaaS 及人才管理平台
+- [MokaHR](http://mokahr.com/) - 让技术更人性化，让招聘更智能化，HR 更爱用的智能化招聘管理系统
 - [薪人薪事](https://www.xinrenxinshi.com/) - 薪人薪事，让人事管理更简单
 
 ## Video Conference
@@ -118,6 +120,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [tapd](http://tapd.cn/) - 一站式敏捷研发协作云平台
 - [ones](https://ones.ai/) - 整合敏捷开发与 DevOps 的研发管理工具
 - [tower](https://tower.im/) - 团队协作工具
+
 ## Marketing
 
 - [磁力引擎](https://e.kuaishou.com/) - 快手营销平台，让品牌更有吸引力
@@ -171,9 +174,11 @@ an awesome list of free SaaS (software as a service) for you.
 - [RemoteClub](https://remoteclub.io/?ref=producthunt) - Find remote jobs for Developers, Designers, Customer Service, Management, Marketing and Sales. Work from anywhere. Hire remote workers!
 
 ## Draw
+
 - [processon](https://www.processon.com/) - 免费在线作图、实时协作
 
 ## OA
+
 - [钉钉](https://www.dingtalk.com/) - 阿里巴巴旗下品牌
 - [企业微信](https://work.weixin.qq.com/) - 让每个企业都有自己的微信
 - [云之家](http://www.yunzhijia.com/home/) - 新一代智能协同云，助力企业重构数字战斗力
@@ -184,30 +189,45 @@ an awesome list of free SaaS (software as a service) for you.
 - [道一云](https://www.do1.com.cn/) - 微信生态最多用户使用的云办公应用
 - [工作周报](http://www.gongzuozhoubao.com/) - 在线编写工作计划、工作总结、安排工作任务的专业云周报系统
 - [致远互联](https://www.seeyon.com/) - 是一家集产品的设计、研发、销售及服务为一体的企业，为客户提供专业的协同管理软件产品、解决方案、平台及云服务 ，是中国领先的协同管理软件提供商
-- [明道](https://www.mingdao.com/) - APass平台、0代码
+- [明道](https://www.mingdao.com/) - APass 平台、0 代码
 - [日事清](https://www.rishiqing.com/) - 高效能团队管理
 
 ## Developer Service
 
 ## Form
+
 - [魔方网表](https://www.mf999.com/) - 魔方网表，信息管理触手可及
 - [金数据](https://jinshuju.net/) - 人人可用的数据收集与管理平台，同时也提供了企业级数据解决方案
-- [麦客](http://mikecrm.com/) - "触"所不能及（Reach Unreachable），麦客CRM是一款在线表单制作工具，同时也是强大的客户信息处理和关系管理系统
-- [问道网](https://www.askform.cn/) - AskForm人才测评云平台，提供360度测评、人才盘点、敬业度调查，满意度调查、人力资源调查，在线调查，在线问卷等功能
+- [麦客](http://mikecrm.com/) - "触"所不能及（Reach Unreachable），麦客 CRM 是一款在线表单制作工具，同时也是强大的客户信息处理和关系管理系统
+- [问道网](https://www.askform.cn/) - AskForm 人才测评云平台，提供 360 度测评、人才盘点、敬业度调查，满意度调查、人力资源调查，在线调查，在线问卷等功能
 - [伙伴办公](https://www.huoban.com/) - 企业微信顶级合作伙伴，企业数据和流程管理专家
-- [帮BOSS](https://www.jsform.com/) - 表单大师-简单好用的数据收集、管理和分析平台
+- [帮 BOSS](https://www.jsform.com/) - 表单大师-简单好用的数据收集、管理和分析平台
 - [用友云表单](https://iuap.yonyoucloud.com/product/form.html) - 云表单是用友 iuap 企业互联网开放平台中的公有云服务。提供与表单相关的平台、应用、工具和服务。
 
 ## Content & Experience
-- [兔展](https://www.rabbitpre.com/) - 一站式企业营销增长平台，H5概念定义者
-- [MAKA](https://www.maka.im/muban) - 全球3000万中小企业用户使用的在线平面设计工具
+
+- [兔展](https://www.rabbitpre.com/) - 一站式企业营销增长平台，H5 概念定义者
+- [MAKA](https://www.maka.im/muban) - 全球 3000 万中小企业用户使用的在线平面设计工具
 - [易企秀](https://store.eqxiu.com/) - 人人会用的创意设计平台
 - [特赞](https://www.tezign.com/) - 创意内容的数字新基建
 - [一气呵成](http://yiqihecheng.cc/) - 智能海报营销平台
 - [kabob](https://hello.kabob.cc/) - 针对餐饮/零售/服务之内容管理与运营管理,打造简单易用的智能软件
 - [创客贴](https://www.chuangkit.com/newcustomera) - 让设计唾手可得
-- [ark创新咨询](https://www.arkdesign.cn/#/) - Design for change, 专注设计驱动力,创新商业未来
+- [ark 创新咨询](https://www.arkdesign.cn/#/) - Design for change, 专注设计驱动力,创新商业未来
 - [样本通](http://www.yangbentong.com/) - 智能样本 裂变营销 产品信息营销管理领导者
+
+## BI
+
+- [观远数据](https://www.guandata.com/) - 实现从数据接入到数据融合，再到数据可视化、数据分析与协作、预警&订阅、多终端展现以及智能决策闭环等一站式服务。服务领域相对聚焦，深耕零售消费领域，如果是零售领域的企业可以看看观远产品，行业契合度比较高，产品上手时间会快很多。
+- [帆软](https://www.finebi.com/product) - 依托原厂产品天然融合的 优势，提供从大数据采集，大数据处理，大数据分析到大数据可视化展现的大商业智能解决方案。偏向工具层面，覆盖行业也较为全面。但是学习成本比较高.
+- [永洪](https://www.yonghongtech.com/) - 致力于为全球企业提供大数据技术产品及服务，依托自主知识产权的一站式大数据平台形成完善的产品及服务体系，具备从数据应用方案咨询、数据治理、数据仓库建设、数据可视化分析、数据深度应用到数据平台实施运维服务的端到端大数据价值服务能力，连续五年获得中国敏捷 BI 第一名
+- [趣云数据](https://www.quclouds.com/) - 以大数据和 AI 技术为核心，在企业消费者数据管理的基础上，为企业市场营销类应用场景提供 SaaS 产品，帮助企业优化运营效率，提升销售转化。通过整合多渠道资源和引入合作伙伴，为企业提供完整闭环生态服务。
+- [亿信华辰](https://www.esensoft.com/) - 智能数据全生命周期产品与服务提供商,提供数据采集、数据存储、数据治理、数据分析产品与服务
+- [天智互动](http://www.tizdata.com/) -无缝对接各种数据源，零技术门槛，通过简单的可视化拖拽，即可实现数据的即时分析与挖掘；灵活多样的展现与集成方式，帮助企业快速搭建自己的数据门户系统。
+- [布本智能](https://botbrain.ai/) - 专注打造内容大脑,专注个性化内容推荐，将优质内容送到用户身边。
+- [众盟](https://www.zmeng.cc/) - 通过数字化，智能化的营销方案，帮助企业鉴别，捕捉更多的线上商机，提升效能，加速线上线下融合升级，实现智能化转型。
+- [PowerBI](https://powerbi.microsoft.com/zh-cn/) - Connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight
+- [Qlikview](https://www.qlik.com/) -Turn raw data into remarkable outcomes with end-to-end, multi-cloud data integration and analytics solutions. Close the gaps between data, insights, and action.
 
 # License
 
