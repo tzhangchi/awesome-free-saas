@@ -7,31 +7,34 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## Contents
 
-- [Docs](#docs)
-- [Design](#design)
-- [CRM](#CRM)
-- [HR](#HR)
-- [Video Conference](#video-conference)
-- [Cloud Services](#cloud-services)
-- [Data Analysis](#data-analysis)
-- [Project & Team Management](#project--team-management)
-- [Marketing](#marketing)
-- [Cost Control Reimbursement](#cost-control-reimbursement)
-- [Low & No Code](#low--no-code-platform)
-- [AI](#ai)
-- [VR](#vr)
-- [Online Coding & Code Share](#online-coding--code-share)
-- [Discussion](#discussion)
-- [CMS & Website](#cms--website)
-- [Log Analysis](#log-analysis)
-- [Information](#information)
-- [Draw](#draw)
-- [OA](#oa)
-- [Developer Service](#developer-service)
-- [Form](#form)
-- [Content & Experience](#content--experience)
-- [BI](#bi)
-- [Restaurants](#restaurants)
+- [Awesome Free SaaS ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-free-saas-)
+  - [Contents](#contents)
+  - [Docs](#docs)
+  - [Design](#design)
+  - [CRM](#crm)
+  - [HR](#hr)
+  - [Video Conference](#video-conference)
+  - [Cloud Services](#cloud-services)
+  - [Data Analysis](#data-analysis)
+  - [Project & Team Management](#project--team-management)
+  - [Marketing](#marketing)
+  - [Cost Control Reimbursement](#cost-control-reimbursement)
+  - [Low & No Code Platform](#low--no-code-platform)
+  - [AI](#ai)
+  - [VR](#vr)
+  - [Online Coding & Code Share](#online-coding--code-share)
+  - [Discussion](#discussion)
+  - [CMS & Website](#cms--website)
+  - [Log Analysis](#log-analysis)
+  - [Information](#information)
+  - [Draw](#draw)
+  - [OA](#oa)
+  - [Developer Service](#developer-service)
+  - [Form](#form)
+  - [Content & Experience](#content--experience)
+  - [BI](#bi)
+  - [Restaurants](#restaurants)
+- [License](#license)
 ## Docs
 
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
@@ -86,6 +89,15 @@ an awesome list of free SaaS (software as a service) for you.
 - [北森云](https://www.beisen.com/) - 一体化 HR SaaS 及人才管理平台
 - [MokaHR](http://mokahr.com/) - 让技术更人性化，让招聘更智能化，HR 更爱用的智能化招聘管理系统
 - [薪人薪事](https://www.xinrenxinshi.com/) - 薪人薪事，让人事管理更简单
+- [2号人事部](https://www.2haohr.com/) - 即租即用的HR效率软件
+- [乐才](http://www.joyhr.com/) - 专注于服务业，将用工管理模块化，招工、用工、劳资三模块灵活选配，实用性较强。
+- [Kronos](https://www.kronos.com/) - 全球领先的劳动力管理解决方案商，计算机芯片考勤机发明者
+- [图谱](https://www.tupu360.com.cn/) - 致力于打造SaaS模式的招聘业务系统
+- [谷露](https://www.gllue.com/) - 提供OA、E-hr等系统的对接，可以定制化。
+- [薪太软](https://www.51xtr.com/) - 一站式互联网薪酬管理平台
+- [易路软件](https://www.ersoft.cn/) - 亚太地区领先的人力资源服务供应商，核心研发团队为大型互联网公司研发人员，技术背景较强。
+- [金柚网](https://www.joyowo.com/) - 是中国先进的专业人力资源综合服务平台型企业，致力于推动中国人力资源产业发展与变革。
+- [51社保](https://www.51shebao.com/) - 中国互联网社保的开创者，是一家以技术驱动的企业社保服务提供商。
 
 ## Video Conference
 
