@@ -30,8 +30,8 @@ an awesome list of free SaaS (software as a service) for you.
 - [Developer Service](#developer-service)
 - [Form](#form)
 - [Content & Experience](#content--experience)
-- [BI](#BI)
-
+- [BI](#bi)
+- [Restaurants](#restaurants)
 ## Docs
 
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
@@ -230,7 +230,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [PowerBI](https://powerbi.microsoft.com/zh-cn/) - Connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight
 - [Qlikview](https://www.qlik.com/) -Turn raw data into remarkable outcomes with end-to-end, multi-cloud data integration and analytics solutions. Close the gaps between data, insights, and action.
 
-## Restaurants Saas 
+## Restaurants  
 - [Olo](https://www.olo.com/) - Olo is a New York City-based B2B SaaS company that develops digital ordering and delivery programs for restaurants.
 - [二维火](https://2dfire.com/) - 专注餐饮云收银系统的研发和应用,致力于帮助餐饮等行业实现互联网信息化
 - [客如云](http://www.keruyun.com/) - 本地生活服务业商家提供SaaS软硬件产品和服务
