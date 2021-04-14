@@ -154,6 +154,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Donna](https://www.donna.legal/) - A plug-in for Microsoft Word that highlights and links relevant information.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
+- [小析智能](https://www.xiaoxizn.com/) - 小析智能服务于智能化人力资源行业
 
 ## VR
 
