@@ -216,6 +216,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [ark 创新咨询](https://www.arkdesign.cn/#/) - Design for change, 专注设计驱动力,创新商业未来
 - [样本通](http://www.yangbentong.com/) - 智能样本 裂变营销 产品信息营销管理领导者
 
+
 ## BI
 
 - [观远数据](https://www.guandata.com/) - 实现从数据接入到数据融合，再到数据可视化、数据分析与协作、预警&订阅、多终端展现以及智能决策闭环等一站式服务。服务领域相对聚焦，深耕零售消费领域，如果是零售领域的企业可以看看观远产品，行业契合度比较高，产品上手时间会快很多。
@@ -228,6 +229,12 @@ an awesome list of free SaaS (software as a service) for you.
 - [众盟](https://www.zmeng.cc/) - 通过数字化，智能化的营销方案，帮助企业鉴别，捕捉更多的线上商机，提升效能，加速线上线下融合升级，实现智能化转型。
 - [PowerBI](https://powerbi.microsoft.com/zh-cn/) - Connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight
 - [Qlikview](https://www.qlik.com/) -Turn raw data into remarkable outcomes with end-to-end, multi-cloud data integration and analytics solutions. Close the gaps between data, insights, and action.
+
+## Restaurants Saas 
+- [Olo](https://www.olo.com/) - Olo is a New York City-based B2B SaaS company that develops digital ordering and delivery programs for restaurants.
+- [二维火](https://2dfire.com/) - 专注餐饮云收银系统的研发和应用,致力于帮助餐饮等行业实现互联网信息化
+- [客如云](http://www.keruyun.com/) - 本地生活服务业商家提供SaaS软硬件产品和服务
+
 
 # License
 
