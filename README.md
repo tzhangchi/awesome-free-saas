@@ -5,10 +5,8 @@ an awesome list of free SaaS (software as a service) for you.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=fancylife.awesome-free-saas)
 
-## Contents
+# Contents
 
-- [Awesome Free SaaS ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-free-saas-)
-  - [Contents](#contents)
   - [Docs](#docs)
   - [Design](#design)
   - [CRM](#crm)
