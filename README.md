@@ -155,6 +155,30 @@ an awesome list of free SaaS (software as a service) for you.
 - [Donna](https://www.donna.legal/) - A plug-in for Microsoft Word that highlights and links relevant information.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
 - [小析智能](https://www.xiaoxizn.com/) - 小析智能服务于智能化人力资源行业
+- [达观数据](http://www.datagrand.com/) - 机器人流程自动化智能RPA，文档智能审阅，领先文本智能处理专家
+- [云孚科技](https://www.yunfutech.com/) - 全球领先的语义技术服务商
+- [虹星科技](http://www.iristar.com) - 专注于远距离虹膜识别/虹膜人脸融合识别 超过10年原创技术积累
+- [庖丁科技](https://paodingai.com/zh/) - 让人工智能赋能金融，洞识海量纷繁信息
+- [极视角](https://extremevision.com.cn/) - 国内首家计算机视觉算法商城
+- [依图科技](https://www.yitutech.com/) - 拓展人工智能新疆界
+- [CALMCAR](https://www.calmcar.com/) - 致力于研发基于深度学习技术的嵌入式视觉产品与数据云平台
+- [TinyLogics](https://pillbox.tinylogics.com/) - Be Healthy & Healthier with Smart Pillbox
+- [DataMesh](https://www.datamesh.com.cn/) - 数字孪生+AR解决方案
+- [杉数科技](https://www.shanshu.ai/) - 致力于决策优化技术的人工智能公司
+- [deepblue](https://www.deepblueai.com/) - 农业智能化
+- [机器之心](https://www.jiqizhixin.com/) - 国内领先的前沿科技媒体和产业服务平台
+- [远形时空](http://www.hyperci.com/) - 开发用于智能设备的视觉感知传感器和配套的软件解决方案
+- [泛化智能](https://m.cyzone.cn/company/337132.html) - 智能识别研发商，致力于深度学习、计算机视觉以及无人机等人工智能与机器人领域的创新应用
+- [宜远智能](https://yiyuan.ai/) - 提供基于皮肤医学及AI技术的测肤API平台
+- [deepleaper](https://www.deepleaper.com/) - 人工智能情景智能公司
+- [先声教育](http://www.singsound.com/) - 拥有语音测评、写作批改、自适应学习、场景对话等人工智能技术，致力于研发AI+教育行业解决方案
+- [硅基智能](https://www.guiji.ai/) - 专注于全球AI技术的研发与商业化智能交互的实践落地
+- [云从科技](https://www.cloudwalk.com/) - 更高效的人机协同解决方案提供商
+- [ideepwise](https://www.ideepwise.ai/) - 多模态深度语义理解与人机交互技术引领者，主要面向场景为智慧医疗大健康和智能汽车
+- [深黑科技](http://shenhey.com/) - 为摄影行业提供坚实可靠的智能修图服务
+- [商汤科技](https://www.sensetime.com/cn) - 致力于计算机视觉和深度学习原创技术的创新型科技公司
+- [依通科技](http://www.ytsoso.com/) - 专注研究基于深度学习的人工智能识别技术和大数据分析
+- [aispeech](http://www.aispeech.com/) - 专业的对话式人工智能平台公司
 
 ## VR
 
