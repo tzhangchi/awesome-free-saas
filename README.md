@@ -270,6 +270,19 @@ an awesome list of free SaaS (software as a service) for you.
 - [二维火](https://2dfire.com/) - 专注餐饮云收银系统的研发和应用,致力于帮助餐饮等行业实现互联网信息化
 - [客如云](http://www.keruyun.com/) - 本地生活服务业商家提供SaaS软硬件产品和服务
 
+## Enterprise cloud disk
+- [亿方云](https://www.fangcloud.com/) - 随时随地，轻松实现文件存储共享与协作
+- [优米云盘](http://www.yomicloud.com/) - 优米云盘全面覆盖企业文档管理场景，提升文件协作效率，为企业提供专业全面的文件管理私有云解决方案
+- [坚果云](https://www.jianguoyun.com/) - 任何设备，随时随地实现文件共享，帮助企业中的变革者改善工作效率和方法
+- [连用科技](http://www.linkapp.cn/) - 更灵活的文件安全共享机制，完全支持混合云架构
+- [联想企业网盘](https://box.lenovo.com/) - IDC与Gartner双重认可的企业网盘，用于内部文件存储、备份和共享，对外文件分享、展示和外部文件收集，支持多人协同的网银级安全产品
+- [够快云库](https://www.gokuai.com/) - 够快云库，高效的企业文件协作管理平台
+- [开始云](http://www.kass.com.cn/) - 完美替代共享文件夹，让文件触手可及，打造企业级安全网盘环境
+- [微盘](https://work.weixin.qq.com/) - 实时共享工作资料，批量分享方便快捷，安全管理企业文件
+- [燕麦云](https://www.oatos.com/) - 安全智能的企业级内容协作
+- [飞书云盘](https://activity.feishu.cn/activity/ug/register/drive) - 用飞书云盘便捷管理企业知识资源
+- [百度智能云](https://cloud.baidu.com/) - 可私有云部署的企业云盘，为企业提供安全、高效、智能、多中心的云盘解决方案。一站式快速构建文档和内容平台，提升员工办公协同效率，实现企业数据统一管理。
+
 
 # License
 
