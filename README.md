@@ -1,4 +1,4 @@
-# Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/fancylife/awesome-free-saas)
 
 an awesome list of free SaaS (software as a service) for you.
 一份很棒的免费 SaaS（软件即服务）清单。
@@ -32,7 +32,9 @@ an awesome list of free SaaS (software as a service) for you.
   - [Content & Experience](#content--experience)
   - [BI](#bi)
   - [Restaurants](#restaurants)
-- [License](#license)
+  - [Corporate Training](#corporate-training)
+  - [License](#license)
+  
 ## Docs
 
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
@@ -270,6 +272,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [二维火](https://2dfire.com/) - 专注餐饮云收银系统的研发和应用,致力于帮助餐饮等行业实现互联网信息化
 - [客如云](http://www.keruyun.com/) - 本地生活服务业商家提供SaaS软硬件产品和服务
 
+
 ## Enterprise cloud disk
 - [亿方云](https://www.fangcloud.com/) - 随时随地，轻松实现文件存储共享与协作
 - [优米云盘](http://www.yomicloud.com/) - 优米云盘全面覆盖企业文档管理场景，提升文件协作效率，为企业提供专业全面的文件管理私有云解决方案
@@ -282,6 +285,38 @@ an awesome list of free SaaS (software as a service) for you.
 - [燕麦云](https://www.oatos.com/) - 安全智能的企业级内容协作
 - [飞书云盘](https://activity.feishu.cn/activity/ug/register/drive) - 用飞书云盘便捷管理企业知识资源
 - [百度智能云](https://cloud.baidu.com/) - 可私有云部署的企业云盘，为企业提供安全、高效、智能、多中心的云盘解决方案。一站式快速构建文档和内容平台，提升员工办公协同效率，实现企业数据统一管理。
+
+## Corporate Training
+- [平安知鸟](https://www.zhi-niao.com/) - 平安集团打造的企业培训一站式方案
+- [OpenEdx](https://open.edx.org/) - Enable online campuses, instructor-led courses, degree programs, and self-paced courses using a single platform.
+- [edcast](https://www.edcast.com/) - Provide frictionless access to the largest repository of learning and knowledge objects
+- [酷学院](https://www.coolcollege.cn/index.html) - 搭建基于移动互联网的企业培训体系 平台+课程+运营，一键搭建企业培训学习管理平台
+- [会否](http://www.kaoshixing.com/) - “会否”是一家为中大型企业提供基层员工业务技能，且能够高频互动的培训解决方案的企业。
+- [智慧树](https://www.zhihuishu.com/) - 全球大型的学分课程运营服务平台
+- [三节课](https://www.sanjieke.cn) - 联网产品人和运营人的在线大学
+- [道一云](https://wbg.do1.com.cn/) - 一站式智能办公平， 30%五百强企业都在用道一云与企业微信
+- [考试星](http://www.kaoshixing.com/) - 使用SaaS平台服务，全领域定位，包括企业、培训机构、学校
+- [传播智客](http://www.itcast.cn/) - 致力于培养高精尖数字化人才，主要培养人工智能、大数据、智能制造、软件、互联网、区块链等数字化专业人才及数据分析、网络营销、新媒体等数字化应用人才
+- [三茅](https://www.hrloo.com/) - 三茅人力资源网是一个人力资源在线学习平台
+- [量子大学](http://www.lzdxedu.com/) - 量子大学专注“教育+互联网”创新实践，链接全球领先教育资源，促进知识创新、传播与共享，致力于成为世界一流的企业云大学及优质内容服
+- [云学堂](https://www.yxt.com/) - 云学堂是一个互联网教育解决方案服务商，致力于帮助企业、教育机构、个人三类用户建设并运营网络学堂。
+- [凯洛格](http://www.keylogic.com.cn/) - 专注于咨询培训
+- [采贝教育](https://www.caibeitv.com/index.html) - 职业教育平台运营商
+- [时代光华](https://www.21tb.com/) - 平台+内容+运营，一站式解决企业学习难题。以高效率、低成本、覆盖广的方式，助力企业赋能员工
+- [人瑞人才](http://www.renruihr.com/index) - 人力资源解决方案先驱，也是众多新经济领军企业的战略合作伙伴
+- [肯耐珂萨](http://www.knx.com.cn/) - 全球领先的人力资源管理综合解决方案提供商
+- [培训宝](https://www.91pxb.com/?mod=marketing&do=intro) - 提供培训管理平台、移动学习平台、考试系统、微课课程资源、微课制作教导、培训运营服务等一站解决方案。
+- [WPS精品课](https://edu.wps.cn/) - 专为职场人士提供优质内容的在线教育平台
+- [FE商业教育](https://www.feshangye.com/) - 致力于用科学的AI模拟方法，用最简单的方式，让更多商科学生或者非商科生学习企业运作、无领导下的团队协作、以及个人在团队中的定位。
+- [魔学院](https://www.moxueyuan.com/) - 向企业的移动学习、培训管理和培训资源对接的云平台，为企业提供一站式企业培训平台服务。
+- [知学云](http://www.zhixuey.com/) - 智慧学习领航者,连接知识网络，开启深度学习体验，创建智慧学习生态
+- [问鼎云学习](http://www.wdxuexi.com/) - 是国内为数不多的能够提供线上+线下人才培养整体解决方案服务商之一。
+- [微加云学院](https://www.51vj.cn/product/suite-xsgl.html) - 一站式学习考试平台，提供培训、考试、直播、学习地图、外部考试、学分管理等功能，全方位助力企业的人才培养机制。
+- [小鹅通](https://www.xiaoe-tech.com/) - 为企业搭建专属的知识服务平台
+- [微课帮](http://bang.vko.cn/) - 微课网旗下互动平台。汇集当下最新课制作方法以及工具，帮助老师制作课程。
+- [云开科技](https://www.yunkai.com/) - 全场景智能教学平台
+- [课通天下](http://www.kttx.cn/) - 课通天下以指数型组织发展理念为指导，以“让好课通天下”为使命，致力于打造企业培训行业生态圈，通过战略合作的方式整合优质培训资源。
+- [职行力](https://www.exexm.com/) - 在直接帮助企业提升绩效理念基础上，以全新的设计理念和技术架构，重新定义传统企业在线学习产品，升华成为一个企业员工能力、知识、培训资源、业务工具的管理性平台。
 
 
 # License
