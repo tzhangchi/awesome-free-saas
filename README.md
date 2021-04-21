@@ -32,9 +32,12 @@ an awesome list of free SaaS (software as a service) for you.
   - [Content & Experience](#content--experience)
   - [BI](#bi)
   - [Restaurants](#restaurants)
+  - [E-signature](#e-signature)
+  - [Integration Payment](#Integration-Payment)
   - [Corporate Training](#corporate-training)
   - [License](#license)
   
+
 ## Docs
 
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
@@ -271,6 +274,33 @@ an awesome list of free SaaS (software as a service) for you.
 - [Olo](https://www.olo.com/) - Olo is a New York City-based B2B SaaS company that develops digital ordering and delivery programs for restaurants.
 - [二维火](https://2dfire.com/) - 专注餐饮云收银系统的研发和应用,致力于帮助餐饮等行业实现互联网信息化
 - [客如云](http://www.keruyun.com/) - 本地生活服务业商家提供SaaS软硬件产品和服务
+
+## E-signature  
+- [法大大](https://www.fadada.com/) - 国内领先的电子签名与电子合同云平台，致力为企业、政府和个人提供基于合法数字签名技术的电子合同和电子单据的签署及管理服务。
+- [君子签](https://www.junziqian.com/) - 以“区块链+司法+电子签约”的形式为企业与个人提供电子合同、电子文件签署、合同管理、电子签章系统、数据存证、法律支持等一站式服务,支持SaaS、API对接、本地化部署等多种对接方式。
+- [e签宝](https://www.esign.cn/) - 专业的全生态电子签名服务商。基于实名身份,为用户提供在线电子签章/签名服务的平台,并且为企业用户提供电子签名、电子合同管理、数据存证和法律维权等服务。
+- [众签](https://www.51signing.com/) - 可信交易解决方案提供商，主营产品包含电子合同、电子签章、区块链存证、智能仲裁等，面向用户提供实名认证、数字证书、合同转换、在线签署、存证保全和司法落地等全流程电子合同以及区块链存证、智能仲裁等服务。
+- [契约锁](https://www.qiyuesuo.com/) - 提供电子签章、电子合同、数据存证、防伪打印、智能印章等解决方案,让每一个组织的公章安全可控,随时随地进行电子化签约。
+- [大家签](https://www.letusign.com/) - 服务对象涵盖政府机构、企事业单位、自然人等社会主体,通过与国内多家第三方数字证书认证机构合作,对平台用户进行严格的身份认证,确保用户身份的真实性。
+- [上上签](https://www.bestsign.cn/) - 为企业提供「合同起草」、「实名认证」、「在线审批」、「签约管理」、「合同管理」、「履约提醒」、「法律支持」、「证据链保存」等合同全生命周期的智能管理服务。
+- [一签通](https://www.easysign.cn/) - 第三方电子合同电子签章服务平台,为企业提供电子合同、电子签章、数据存证、司法出证等全套服务,是北京市认定的双软认证企业和高新技术企业。
+- [1号签](https://www.enjoysign.com/) - 平台可实现合同文件在线签，以拥有专利技术的线上签约取代传统的手签快递、扫描传真和邮件确认等方式，安全合法又省钱。
+- [金格科技](https://lynn2008.etlong.com/) - 是一家专门从事电子签章&网络中间件软件研究与开发的软件企业,提供基于互联网络平台的解决方案及应用产品、技术和服务。
+- [同智伟业](http://www.tongzhi.com.cn/) - 致力于以国产密码应用为核心的信息安全产品和行业应用的研发、销售和技术服务，拥有公安部、国家保密局、国家密码局相关业务资质和近百项知识产权。
+- [安心签](http://www.anxinsign.com/) - 中国金融认证中心(CFCA)研发的一套集,电子合同,电子签章,电子版合同,电子合同签署平台,在线电子合同的第三方电子合同平台。
+- [信任度](https://www.trustdo.cn/) - 数权经济司法服务提供商，致力于以技术创新驱动互联网司法服务升级，以生态链接保障数字经济的合法权益。通过建立关于人、行为、数据之间的互联网可信应用体系，提升互联网环境下的信任水平、降低网络信任的成本。
+- [领签](http://www.linksign.cn/) - 第三方电子合同和电子签名服务商，拥有完全自主知识产权的电子合同和电子签名产品，向金融、保险、旅游、教育、供应链、物流、B2B交易、医疗、政府机构等众多客户提供电子签名产品、服务和解决方案。
+- [易企签](https://www.signit.cn/) - 以可靠电子签名,实现文档签署及业务,流程全程数字化,让企业运营更智能。
+
+## Integration Payment  
+- [微客巴巴](http://www.weikebaba.com/) - 以“支付+、大数据应用”为核心发展战略导向，深耕新零售领域，专注于支付场景下的新零售科技与大数据应用服务，为中小企业及实体商家解决开店难、经营难问题，提升经营效率，降低经营成本，增加经营收入，实现数字化经营升级。
+- [钱方好近](http://www.qfpay.com/) - 移动支付和消费大数据金融科技公司。
+- [Ping++](https://www.pingxx.com/) - 聚合支付云 SDK 让你在 app 和网站中轻松加入支付功能。
+- [BEECLOUD](http://www.beecloud.cn/) - 提供一站式移动支付解决方案的云服务平台，既可以帮助移动应用快速实现全渠道支付方式集成，同时也提供安全稳定的分布式云后端服务，为移动应用扫清支付障碍，保障用户支付过程安全流畅。
+- [维金](https://www.vfinance.cn/) - 致力于为企业提供互联网金融基础设施及整体解决方案，帮助企业一站式解决在资金收付、账户管理、资金合规等方面问题，助力企业全面提升中后台管理效率。
+- [中金支付](https://www.cpcn.com.cn/) - 是一家专业从事互联网支付的第三方支付机构。
+- [和付](https://www.andpay.me/) - 行业智能服务方案提供商，为各行各业的核心企业打造符合其业务特征的综合产业链解决方案。
+- [易宝支付](https://www.yeepay.com/) - 专注于提供行业整体解决方案，让支付更加便捷、安全、智慧。
 
 
 ## Enterprise cloud disk
