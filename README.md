@@ -65,6 +65,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
 - [CoDesign](https://codesign.qq.com/) - 腾讯 CoDesign, 一站式设计协作平台
 - [摹客](https://www.mockplus.cn/) - 全流程设计、原型设计
+- [快手云剪](https://onvideo.kuaishou.com/hub/home) 提供强大免费的视频剪辑编辑软件、海量视频、图片、音频版权素材,帮助大型机构、企业、媒体机构、自媒体以及普通用户高效完成视频内容制作
 
 ## CRM
 
