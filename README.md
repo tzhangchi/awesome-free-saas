@@ -154,6 +154,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Treelab](https://www.treelab.com.cn) - Treelab 是一款新一代生产力工具能让非技术人员像 Excel 一样创造不同任意业务系统
 - [纷享销客 PaaS](https://www.fxiaoke.com/ap/plat-Paas/) - Paas 平台能力支撑，轻松满足企业差异化业务定制需求
 - [微搭](https://cloud.tencent.com/product/weda) - 腾讯云微搭低代码 WeDa, 支持快速构建包括微信小程序在内的多种应用
+- [易传单](https://echuandan.com/) - 国内最早的H5电子传单制作和分享平台,围绕在线H5小程序和幻灯片制作工具
 
 ## AI
 
@@ -348,6 +349,8 @@ an awesome list of free SaaS (software as a service) for you.
 - [课通天下](http://www.kttx.cn/) - 课通天下以指数型组织发展理念为指导，以“让好课通天下”为使命，致力于打造企业培训行业生态圈，通过战略合作的方式整合优质培训资源。
 - [职行力](https://www.exexm.com/) - 在直接帮助企业提升绩效理念基础上，以全新的设计理念和技术架构，重新定义传统企业在线学习产品，升华成为一个企业员工能力、知识、培训资源、业务工具的管理性平台。
 
+## API
+- [eolink](https://www.eolinker.com/) 专为开发者设计的免费 API 协作平台
 
 # License
 
