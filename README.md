@@ -92,6 +92,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [workday](http://workday.com/) - The finance, HR, and planning system for a changing world
 - [北森云](https://www.beisen.com/) - 一体化 HR SaaS 及人才管理平台
 - [MokaHR](http://mokahr.com/) - 让技术更人性化，让招聘更智能化，HR 更爱用的智能化招聘管理系统
+- [轻雀面试](https://interview.qingque.cn/) - 轻雀面试承载了快手在线面试过程中的最佳实践，为组织提供一套稳定好用的在线面试工具。
 - [薪人薪事](https://www.xinrenxinshi.com/) - 薪人薪事，让人事管理更简单
 - [2号人事部](https://www.2haohr.com/) - 即租即用的HR效率软件
 - [乐才](http://www.joyhr.com/) - 专注于服务业，将用工管理模块化，招工、用工、劳资三模块灵活选配，实用性较强。
