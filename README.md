@@ -246,6 +246,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [伙伴办公](https://www.huoban.com/) - 企业微信顶级合作伙伴，企业数据和流程管理专家
 - [帮 BOSS](https://www.jsform.com/) - 表单大师-简单好用的数据收集、管理和分析平台
 - [用友云表单](https://iuap.yonyoucloud.com/product/form.html) - 云表单是用友 iuap 企业互联网开放平台中的公有云服务。提供与表单相关的平台、应用、工具和服务。
+- [HeyForm](https://heyform.net) - Drag and drop online form builder. The free tier lets users create unlimited forms. Users can embed the forms anywhere, including static site generators.
 
 ## Content & Experience
 
