@@ -35,6 +35,7 @@ an awesome list of free SaaS (software as a service) for you.
   - [E-signature](#e-signature)
   - [Integration Payment](#Integration-Payment)
   - [Corporate Training](#corporate-training)
+  - [Automation](#automation)
   - [License](#license)
   
 
@@ -355,6 +356,9 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## API
 - [eolink](https://www.eolinker.com/) 专为开发者设计的免费 API 协作平台
+
+## Automation
+
 
 # License
 
