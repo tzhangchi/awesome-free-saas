@@ -358,6 +358,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [eolink](https://www.eolinker.com/) 专为开发者设计的免费 API 协作平台
 
 ## Automation
+- [automate](https://automate.io/) Connect your cloud apps. Automate work.
 
 
 # License
