@@ -1,7 +1,6 @@
 # Awesome Free SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/fancylife/awesome-free-saas)
 
 an awesome list of free SaaS (software as a service) for you.
-一份很棒的免费 SaaS（软件即服务）清单。
 
 ![](https://visitor-badge.glitch.me/badge?page_id=fancylife.awesome-free-saas)
 
