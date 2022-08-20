@@ -254,6 +254,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [兔展](https://www.rabbitpre.com/) - 一站式企业营销增长平台，H5 概念定义者
 - [MAKA](https://www.maka.im/muban) - 全球 3000 万中小企业用户使用的在线平面设计工具
 - [易企秀](https://store.eqxiu.com/) - 人人会用的创意设计平台
+- [稿定设计](https://www.gaoding.com/) - 让设计更简单
 - [特赞](https://www.tezign.com/) - 创意内容的数字新基建
 - [一气呵成](http://yiqihecheng.cc/) - 智能海报营销平台
 - [kabob](https://hello.kabob.cc/) - 针对餐饮/零售/服务之内容管理与运营管理,打造简单易用的智能软件
