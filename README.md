@@ -40,6 +40,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## Docs
 
+- [AFFiNE](http://affine.pro/) -AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
 - [DrawOnPDF](https://www.goodannotations.com/tools/draw-on-pdf) - Draw on PDF documents online with the best free PDF editor.
 - [轻雀文档](http://docs.qingque.cn/) - 企业级智能在线协作文档
@@ -66,6 +67,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [CoDesign](https://codesign.qq.com/) - 腾讯 CoDesign, 一站式设计协作平台
 - [摹客](https://www.mockplus.cn/) - 全流程设计、原型设计
 - [快手云剪](https://onvideo.kuaishou.com/hub/home) 提供强大免费的视频剪辑编辑软件、海量视频、图片、音频版权素材,帮助大型机构、企业、媒体机构、自媒体以及普通用户高效完成视频内容制作
+- 
 
 ## CRM
 
@@ -124,7 +126,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## Project & Team Management
 
-- [Notion](https://www.notion.so/product) - One tool for your whole team. Write, plan, and get organized.
+- [AFFiNE](http://affine.pro/) -AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [monday](https://monday.com/) - Work the way that works for you
 - [轻雀协作](https://qingque.cn/) - 服务新一代工作知识工作者，项目管理软件
 - [asana](https://asana.com/) - Teams don’t lose track of work with Asana
@@ -137,6 +139,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [tapd](http://tapd.cn/) - 一站式敏捷研发协作云平台
 - [ones](https://ones.ai/) - 整合敏捷开发与 DevOps 的研发管理工具
 - [tower](https://tower.im/) - 团队协作工具
+- [Notion](https://www.notion.so/product) - One tool for your whole team. Write, plan, and get organized.
 
 ## Marketing
 
