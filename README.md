@@ -53,7 +53,6 @@ an awesome list of free SaaS (software as a service) for you.
 - [Confluence wiki software](https://www.atlassian.com/) - Connect people, content, and ideas all in one place so you can spend less time hunting things down, and more time making things happen.
 - [印象笔记](https://yinxiang.com/) - 让生活更有序，让工作更高效，让协作更便捷
 - [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
-- [Editoe](https://canary.editoe.com/) - 一款正在向理想中的学术创作工具迈进的编辑器。 希望它能让你专注创作、保持愉悦、并传播真理。
 
 ## Design
 
