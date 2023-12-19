@@ -33,8 +33,8 @@ an awesome list of free SaaS (software as a service) for you.
   - [Restaurants](#restaurants)
   - [E-signature](#e-signature)
   - [Integration Payment](#Integration-Payment)
-  - [Corporate Training] (#corporate-training)
-  - [Automation] (#automation)
+  - [Corporate Training](#corporate-training)
+  - [Automation](#automation)
   - [License](#license)
   
 ## AI
