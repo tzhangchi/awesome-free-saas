@@ -18,7 +18,6 @@ an awesome list of free SaaS (software as a service) for you.
   - [Marketing](#marketing)
   - [Cost Control Reimbursement](#cost-control-reimbursement)
   - [Low & No Code Platform](#low--no-code-platform)
-  - [AI](#ai)
   - [VR](#vr)
   - [Online Coding & Code Share](#online-coding--code-share)
   - [Discussion](#discussion)
@@ -143,10 +142,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [Treelab](https://www.treelab.com.cn) - Treelab is a new generation productivity tool that enables non-technical personnel to create different business systems like Excel
 - [Fenxiang Xiaoke PaaS](https://www.fxiaoke.com/ap/plat-Paas/) - Paas platform capability support, easily meet the needs of enterprises for differentiated business customization
 - [WeDa](https://cloud.tencent.com/product/weda) - Tencent Cloud WeDa, a low-code WeDa, supports rapid construction of various applications including WeChat applets
-- [Echuandan](https://echuandan.com/) - The earliest H5 electronic leaflet making and sharing platform in China, centering on online H5 applets and slideshow making tools
+- [Echuandan](https://twitter.com/EchuandanHQ) - The earliest H5 electronic leaflet making and sharing platform in China, centering on online H5 applets and slideshow making tools
 
-## AI
-- https://ai.com/
+
 
 ## VR
 
@@ -217,7 +215,6 @@ an awesome list of free SaaS (software as a service) for you.
 ## Integration Payment
 
 - [Ping++](https://www.pingxx.com/) - Aggregation Payment Cloud SDK allows you to easily add payment functions in apps and websites.
-
 
 
 ## Enterprise cloud disk
