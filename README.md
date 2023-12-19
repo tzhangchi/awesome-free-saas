@@ -5,7 +5,8 @@ an awesome list of free SaaS (software as a service) for you.
 ![](https://visitor-badge.glitch.me/badge?page_id=fancylife.awesome-free-saas)
 
 # Contents
-
+  - [AI](#ai)
+  - [Prompt](#prompt)
   - [Docs](#docs)
   - [Design](#design)
   - [CRM](#crm)
@@ -37,6 +38,12 @@ an awesome list of free SaaS (software as a service) for you.
   - [Automation] (#automation)
   - [License](#license)
   
+## AI
+- [ChatGPT](https://chat.openai.com/) - ChatGPT is a free-to-use AI system
+- [midjourney](https://midjourney.com/) - where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions
+
+## Prompt 
+- [FlowGPT](https://flowgpt.com/) - FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world 
 
 ## Docs
 
