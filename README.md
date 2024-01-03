@@ -60,6 +60,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Confluence wiki software](https://www.atlassian.com/) - Connect people, content, and ideas all in one place so you can spend less time hunting things down, and more time making things happen.
 - [Evernote](https://yinxiang.com/) - Make life more orderly, work more efficient, and collaborate more conveniently
 - [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
+- [Dataku](https://dataku.ai) - Transform Unstructured doc To Structured Data.
 
 ## Design
 
