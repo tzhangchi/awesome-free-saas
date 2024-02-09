@@ -201,6 +201,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Eqxiu](https://store.eqxiu.com/) - A creative design platform that everyone can use
 - [Draft Design](https://www.gaoding.com/) - Make the design easier
+- [QRCode.Best](https://qrcode.best/) - Create and save dynamic qr codes
 
 
 
