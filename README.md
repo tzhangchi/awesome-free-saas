@@ -7,6 +7,7 @@ an awesome list of free SaaS (software as a service) for you.
 # Contents
   - [AI](#ai)
   - [Prompt](#prompt)
+  - [Canvas](#canvas)
   - [Docs](#docs)
   - [Design](#design)
   - [CRM](#crm)
@@ -44,7 +45,12 @@ an awesome list of free SaaS (software as a service) for you.
 - [perplexity](https://www.perplexity.ai/) - Perplexity is your AI-powered Swiss Army Knife for information discovery and curiosity. 
 
 ## Prompt 
-- [FlowGPT](https://flowgpt.com/) - FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world 
+- [FlowGPT](https://flowgpt.com/) - FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world
+
+## Canvas 
+- [Llama Canvas](https://llamagen.ai/features/llama-canvas) - LLAMA CANVAS AI Next-generation AI Story Generator & AI Story Writer turns your text into visuals so sharing your ideas is quick and effective
+- [OpenAI Canvas](https://openai.com/index/introducing-canvas/) - A new way of working with ChatGPT to write and code
+  
 
 ## Docs
 - [Llama Canvas](https://llamagen.ai/features/llama-canvas) - LLAMA CANVAS AI Next-generation AI Story Generator & AI Story Writer turns your text into visuals so sharing your ideas is quick and effective
