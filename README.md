@@ -47,7 +47,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [FlowGPT](https://flowgpt.com/) - FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world 
 
 ## Docs
-
+- [Llama Canvas](https://llamagen.ai/features/llama-canvas) - LLAMA CANVAS AI Next-generation AI Story Generator & AI Story Writer turns your text into visuals so sharing your ideas is quick and effective
+- [OpenAI Canvas](https://openai.com/index/introducing-canvas/) - A new way of working with ChatGPT to write and code
+- [Jenni](https://jenni.ai/) -  Meet Your Intelligent Research Assistant
 - [AFFiNE](http://affine.pro/) -AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [Craft](https://www.craft.do/) - Built for digital devices from the ground-up, Craft brings back the joy to writing.
 - [DrawOnPDF](https://www.goodannotations.com/tools/draw-on-pdf) - Draw on PDF documents online with the best free PDF editor.
