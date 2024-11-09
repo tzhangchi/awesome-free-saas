@@ -141,6 +141,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Low & No Code Platform
 
 - [Airtable](https://airtable.com/) - Low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes.
+- [Visual DB](https://visualdb.com/) - Web frontend for your database. Create data entry forms and reports. Spreadsheet-database hybrid.
 - [Qing Flow](https://qingflow.com/) - Reshaping the system development method through "no code" technology
 - [Huozige](https://www.grapecity.com.cn/solutions/huozige) - Low code platform.
 - [Treelab](https://www.treelab.com.cn) - Treelab is a new generation productivity tool that enables non-technical personnel to create different business systems like Excel
